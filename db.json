@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "username": "towmat",
+      "body": "hello vietnam",
+      "email": "towmat@mail.ru",
+      "id": 1
+    },
+    {
+      "username": "ewmat",
+      "body": "hello",
+      "email": "ewmat12@mail.com",
+      "id": 2
+    }
+  ]
+}
